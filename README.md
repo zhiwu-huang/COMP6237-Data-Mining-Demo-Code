@@ -16,7 +16,6 @@ The project is organised mainly as Jupyter notebooks, with one `Images/` folder 
 - market basket analysis
 - semantic spaces
 - topic modelling / finding features
-- learning to rank
 - outlier detection
 
 There are also paired **visual demo** notebooks for several later modules, including:
@@ -41,7 +40,6 @@ There are also paired **visual demo** notebooks for several later modules, inclu
 - `06_searchRank.ipynb`
 - `07_document_filtering_spam_ham.ipynb`
 - `08_decisiontrees_offer_case.ipynb`
-- `13_learning_to_rank.ipynb`
 
 ### Pattern mining and feature discovery
 - `10_market_basket_visual_demo.ipynb`
