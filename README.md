@@ -28,9 +28,7 @@ There are also paired **visual demo** notebooks for several later modules, inclu
 ## Notebook overview
 
 ### Recommenders and similarity
-- `02_recommender.ipynb`
 - `02_recommender_with_content_visual.ipynb`
-- `09_nearest_neighbours.ipynb`
 - `09_nearest_neighbours_item_based_miley_demo.ipynb`
 
 ### Clustering, grouping, and representations
@@ -41,18 +39,13 @@ There are also paired **visual demo** notebooks for several later modules, inclu
 
 ### Search, filtering, and classification
 - `06_searchRank.ipynb`
-- `07_doc_filtering.ipynb`
 - `07_document_filtering_spam_ham.ipynb`
-- `08_decisiontrees.ipynb`
 - `08_decisiontrees_offer_case.ipynb`
 - `13_learning_to_rank.ipynb`
 
 ### Pattern mining and feature discovery
-- `10_market_basket.ipynb`
 - `10_market_basket_visual_demo.ipynb`
-- `11_semantic_spaces.ipynb`
 - `11_semantic_spaces_visual_demo.ipynb`
-- `12_finding_features.ipynb`
 - `12_finding_features_visual_demo.ipynb`
 
 ### Outliers
