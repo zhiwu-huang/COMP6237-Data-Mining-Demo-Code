@@ -1,6 +1,6 @@
 # COMP6237 Data Mining Demo Code
 
-Demo notebooks and supporting utilities for **COMP6237 Data Mining**. The repository is an extension of `jogrundy/Data-Mining-Demo-Code-18-19`, and it contains a collection of Jupyter notebooks covering core data mining topics used in the course. The current repository description is: **“Demo code for the data mining course.”**
+Demo notebooks and supporting utilities for **[COMP6237 Data Mining](https://comp6237.ecs.soton.ac.uk)**. The repository is an extension of `jogrundy/Data-Mining-Demo-Code-18-19`, and it contains a collection of Jupyter notebooks covering core data mining topics used in the course. The current repository description is: **“Demo code for the data mining course.”**
 
 ## What this repository contains
 
